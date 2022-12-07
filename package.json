@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/kastureranjit/rest_api_node_mongo#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.18.2"
   },
   "devDependencies": {
     "@typescript-eslint/eslint-plugin": "^2.3.2",
